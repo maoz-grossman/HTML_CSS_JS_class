@@ -2,6 +2,9 @@ body {
     background-color: darkslategray;
   }
   h1 {
-    color: rgb(142, 142, 206);
+    color:black;
+  }
+  ul{
+    color: black ;
   }
   
